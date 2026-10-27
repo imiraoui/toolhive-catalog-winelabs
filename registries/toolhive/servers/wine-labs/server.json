@@ -19,7 +19,7 @@
     "io.modelcontextprotocol.registry/publisher-provided": {
       "io.github.stacklok": {
         "https://chat.wine-labs.com/mcp": {
-          "tier": "Community",
+          "tier": "Official",
           "status": "Active",
           "tags": [
             "remote",
@@ -43,5 +43,14 @@
         }
       }
     }
-  }
+  },
+  "icons": [
+    {
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ],
+      "src": "https://raw.githubusercontent.com/stacklok/toolhive-registry/main/registries/toolhive/servers/wine-labs/icon.svg"
+    }
+  ]
 }
